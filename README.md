@@ -14,10 +14,10 @@ HTML, CSS <br>
 
 &#8226; SERVİCES<img src="/gif/CodeWebDesignTwo.gif"></br></br></br>
 
-&#8226;<img src="/gif/CodeWebDesignThree.gif"></br></br></br>
+<img src="/gif/CodeWebDesignThree.gif"></br></br></br>
 
-&#8226;<img src="/gif/CodeWebDesignFour.gif">
+<img src="/gif/CodeWebDesignFour.gif">
 
 
 
-# Professional-WebDesign-App
+
